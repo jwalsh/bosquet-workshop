@@ -1,0 +1,7 @@
+{
+ :azure-openai-api-key  #env "AZURE_OPENAI_API_KEY"
+ :azure-openai-api-endpoint nil
+ :openai-api-key #env "OPENAI_API_KEY" 
+ :openai-api-endpoint nil
+ :cohere-api-key #env "COHERE_API_KEY"
+}
