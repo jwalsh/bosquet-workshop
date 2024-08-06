@@ -1,0 +1,14 @@
+#+TITLE: bosquet-workshop
+#+LAST_MODIFIED: 2024-08-06 06:50:56
+
+* Description
+
+Add a description of your project here.
+
+* Installation
+
+* Usage
+
+* Contributing
+
+* License
